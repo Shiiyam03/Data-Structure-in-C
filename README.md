@@ -1,5 +1,5 @@
 # Data-Structure-in-C
- This repository contains the C source code for a data structure implementation that performs various operations.
+ This repository contains the C source code for  data structure implementation that performs various operations.
  
 # Avl Tree
      1. Insert
