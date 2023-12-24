@@ -73,4 +73,6 @@
      4.EXIT
 
 # To Clone this repository
+```bash
 git clone https://github.com/Shiiyam03/Data-Structure-in-C.git
+```
